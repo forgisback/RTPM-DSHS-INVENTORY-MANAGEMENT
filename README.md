@@ -10,6 +10,14 @@ Database Management
 Exceptional Handling
 Object Oriented Programming
 
+The people who contributed on the work are as follows:
 
+Crystal Aquino 
+Deane Baro
+Freyja Luna
+Mark Mariano
+Richelle Ramas
+Roualygen Villegas
 
+This study is for the people who wants to keep track of how many stocks and/or who bought the items in the RTPM-DSHS CANTEEN
 
